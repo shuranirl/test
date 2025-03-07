@@ -1,0 +1,7 @@
+{
+  "name": "RadarChart",
+  "display_name": "Radar Chart",
+  "description": "A radar chart visualization using Chart.js",
+  "scripts": ["radar_chart.js"],
+  "style_sheets": []
+}
